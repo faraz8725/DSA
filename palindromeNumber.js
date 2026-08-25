@@ -9,7 +9,7 @@ let rev=0;
  rev=rev*10 +rem;
  num=Math.floor(num/10);
   }
-if(rev===original){
+if(rev===original){    
   return("Palindrome Number");
 }else{
   return ("Non Palindrome number");
