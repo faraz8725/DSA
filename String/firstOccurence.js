@@ -1,0 +1,4 @@
+function first(haystack,needle){
+
+
+}
