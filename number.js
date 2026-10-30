@@ -1,7 +1,0 @@
-function abc() {
-
-}
-
-function2(){
-
-}
