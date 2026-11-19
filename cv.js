@@ -1,1 +1,0 @@
-console.log("tomorrow is CV exam");
